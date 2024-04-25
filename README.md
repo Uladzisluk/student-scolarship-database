@@ -6,5 +6,4 @@
 
 ### Description
 
-Projekt bazy danych wykorzystywanej w celu składania i rozpatrywania wniosków, będzie przechowywał listy studentów, starających się o stypendium, wartości dochodów ich rodzin i wysokości wypłat miesięcznych, zależnych od dochodu.
-
+The design of the database used to submit and process applications will store lists of students applying for scholarships, the values of their families' incomes and the amounts of monthly payments based on income.
