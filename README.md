@@ -1,1 +1,2 @@
-"# student-scolarship-database" 
+# Student Scolarship Database
+[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
